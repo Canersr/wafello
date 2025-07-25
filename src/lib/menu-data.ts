@@ -45,7 +45,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'fusion-waffle',
     name: 'FUSİON WAFFLE',
     description: 'Sütlü çikolata,çilek,kivi,ananas,damla çikolata,çikolata sosu',
-    price: 250.00,
+    price: 210.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753358520/Fusion_WAFFLE_2_qlatjz.jpg',
     //aiHint: 'strawberry waffle'
@@ -54,7 +54,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'choco-tropic',
     name: 'Choco Tropic',
     description: 'Sütlü çikolata,muz,çilek,badem parçaları,karamel sosu',
-    price: 220.50,
+    price: 200.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361454/choco_tropic_cbgfsm.jpg',
     //aiHint: 'belgian waffle'
@@ -63,7 +63,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'favorite-waffle',
     name: 'Favorite Waffle',
     description: 'Sütlü çikolata,muz,çilek,kivi,antep fıstığı parçaları, çikolata sosu',
-    price: 260.00,
+    price: 220.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361454/favorite_waffle_abjbfm.jpg',
     //aiHint: 'banana chocolate waffle'
@@ -72,7 +72,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'duo-waffle',
     name: 'DUO',
     description: 'Sütlü çikolata,muz,çilek,fındık parçaları,çikolata sosu',
-    price: 275.00,
+    price: 170.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361454/duo_izmrgc.jpg',
     //aiHint: 'white chocolate waffle'
@@ -81,7 +81,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'nut-blanc',
     name: 'NUT BLANC',
     description: 'Beyaz çikolata,muz,çilek,yer fıstığı parçaları,çikolata sosu',
-    price: 90.00,
+    price: 200.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361455/nut_blanc_jrpzga.jpg',
     //aiHint: 'lemonade'
@@ -90,7 +90,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'double-chocolate',
     name: 'DOUBLE CHOCOLATE',
     description: 'Bitter çikolata,beyaz çikolata,muz,çilek,antep fıstığı parçaları,çakıl çikolata,çikolata sosu',
-    price: 110.00,
+    price: 230.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753355292/wafello_logo_ntgqw9.png',
     //aiHint: 'iced coffee'
@@ -99,7 +99,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'kivana',
     name: 'Kivana',
     description: 'Sütlü çikolata,muz,kivi,antep fıstığı parçaları,çikolata sosu',
-    price: 90.00,
+    price: 200.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361456/kivana_peprgt.jpg',
     //aiHint: 'lemonade'
@@ -108,7 +108,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'coco-blis',
     name: 'Coco Blis',
     description: 'Sütlü çikolata , muz, hindistan cevizi,çikolata sosu',
-    price: 90.00,
+    price: 150.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361455/coco_blis_sxzh75.jpg',
     //aiHint: 'lemonade'
@@ -117,7 +117,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'white-blis',
     name: 'White Blis',
     description: 'Beyaz çikolata,muz,çilek,Antep fıstığı parçaları,çikolata sosu',
-    price: 90.00,
+    price: 190.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361457/white_blis_i3dpao.jpg',
     //aiHint: 'lemonade'
@@ -126,7 +126,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'berry-caramel',
     name: 'Berry Caramel',
     description: 'Sütlü çikolata,çilek,kivi,damla çikolata,karamel sosu',
-    price: 90.00,
+    price: 170.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753361458/berry_caramel_rwjk6s.jpg',
     //aiHint: 'lemonade'
@@ -135,7 +135,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'oreolicius',
     name: 'Oreolicius',
     description: 'Bitter çikolata ,muz,oreo parçaları,çikolata sosu',
-    price: 90.00,
+    price: 200.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753355292/wafello_logo_ntgqw9.png',
     //aiHint: 'lemonade'
@@ -144,7 +144,7 @@ export const allMenuItems: MenuItem[] = [
     id: 'snowy-blis',
     name: 'Snowy Blis',
     description: 'Beyaz çikolata,muz, çilek,kivi,fındık parçaları,beyaz sosu',
-    price: 90.00,
+    price: 200.00,
     category: 'Waffle',
     imageUrl: 'https://res.cloudinary.com/dxwwviisy/image/upload/v1753355292/wafello_logo_ntgqw9.png',
     //aiHint: 'lemonade'
