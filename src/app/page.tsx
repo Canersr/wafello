@@ -48,8 +48,8 @@ export default function HomePage() {
   }, []);
 
   const shareData = {
-    title: 'Wafello - The Art of Waffles',
-    text: 'Check out the most delicious waffles in town!',
+    title: 'Wafello - Karşı Konulmaz Lezzetler',
+    text: "Şehrin en lezzetli waffle 'larına göz atın!",
     url: siteUrl,
   };
 
@@ -240,7 +240,7 @@ export default function HomePage() {
                 asChild
                 className="rounded-full w-12 h-12 border border-muted hover:bg-muted/50"
               >
-                <a href="tel:+905377914662" aria-label="Telefon">
+                <a href="tel:+905015313107" aria-label="Telefon">
                   <Phone className="text-muted-foreground" />
                 </a>
               </Button>
